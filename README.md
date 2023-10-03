@@ -1,2 +1,2 @@
 # Quiz-Game
-A simple quiz app built using HTML, CSS, JavaScript.
+A simple quiz app built using HTML, CSS and JavaScript.
