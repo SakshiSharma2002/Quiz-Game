@@ -1,4 +1,9 @@
 # Quiz-Game
+
+## Live Quiz App
+
+Access the live quiz app [here](https://sakshisharma2002.github.io/Quiz-Game/).
+
 ## Quiz App using HTML, CSS, and JavaScript
 
 This is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and provides feedback on their answers. The app also includes a timer for each question.
